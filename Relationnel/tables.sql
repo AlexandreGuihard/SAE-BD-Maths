@@ -2,7 +2,8 @@ create table PIECE(
     numPiece int primary key,
     nomPiece varchar2(42),
     descriptionPiece varchar2(200),
-    prixUnitairePiece decimal
+    prixUnitairePiece decimal,
+    pieceComposee int -- 0=>Pièce simple | 1=>Pièce composée
 );
 
 create table CONTENIR(
