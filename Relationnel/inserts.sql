@@ -3,7 +3,7 @@ insert into PIECE values (2, 'Rivets en aluminium', 'Rivets', 50, 0);
 insert into PIECE values (3, 'Raidisseurs en composite', 'Raidisseurs', 75, 0);
 insert into PIECE values (4, 'Plaque en alliage d''aluminium', 'Plaque d''aluminium', 30, 0);
 insert into PIECE values (5, 'Boulon en acier inoxydable', 'Boulon', 3, 0);
-insert into PIECE values (6, 'Écrou hexagonal', 'Ecrou', 2, 0);
+insert into PIECE values (6, 'Ecrou hexagonal', 'Ecrou', 2, 0);
 insert into PIECE values (7, 'Rondelle en acier', 'Rondelle', 1, 0);
 insert into PIECE values (8, 'Profile en carbone', 'Profile', 100, 0);
 insert into PIECE values (9, 'Charniere renforcee', 'Charniere', 15, 0);
